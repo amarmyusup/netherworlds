@@ -1,10 +1,6 @@
 # AMY
 
-This script is free, if caught sold, this script will be deleted immediately.
-Don't forget to follow my github
-
-Script ini gratis, Jika ketahuan di jual, Script ini akan langsung di hapus.
-Jangan lupa untuk mengikuti github ku
+FREE RECODE
 
 | BuildPack | LINK |
 |--------|--------|

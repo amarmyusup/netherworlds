@@ -19,19 +19,7 @@ pkg install imagemagick -y
 wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 yarn
 
-echo ":::::::::::::::::::::::::::::::::"
-echo ":::::::::::::::::::::::::::::::::"
-echo ":::::          AMY          :::::"
-echo ":::::                       :::::"
-echo ":::::   :::::      :::::    :::::"
-echo ":::::   :::::      :::::    :::::"
-echo ":::::                       :::::"
-echo ":::::     ::::::::::::      :::::"
-echo ":::::     ::::::::::::      :::::"
-echo ":::::                       :::::"
-echo ":::::::::::::::::::::::::::::::::"
-echo ":::::::::::::::::::::::::::::::::"
-echo "[*] JANGAN DISHARE, DI SHARE REPO INI AKAN DI HAPUS !!"
+echo "[*] FREE RECODE"
 echo "[*] Made by Amar Maulana Yusup"
 echo "[*] All dependencies have been installed, please run the command \"npm start\" to immediately start the script"
 npm start

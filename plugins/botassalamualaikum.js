@@ -4,7 +4,7 @@ let assalamualaikum = fs.readFileSync('./mp3/botassalamualaikum.opus')
 conn.sendFile(m.chat, assalamualaikum, '', '', m, true)
 }
 
-handler.customPrefix = /^(assalamualaikum|assallamualaikum|assalamu\'alaikum|as\'salamualaikum)$/i
+handler.customPrefix = /^(assalamualaikum|samlekom|assallamualaikum|assalamu\'alaikum|as\'salamualaikum)$/i
 handler.command = new RegExp
 handler.limit = true
 

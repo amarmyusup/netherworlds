@@ -234,12 +234,12 @@ console.log(color(tampilTanggal, "pink"));
 console.log(color(tampilWaktu, "pink"));
 console.log(color(tampilHari, "pink"));
 
-CFonts.say('Lightweight\nWhatsApp Netherworlds Bot', {
+CFonts.say('AMY\nNetherworlds Bot', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say(`${package.name} By ${package.author.name || package.author}`, {
+CFonts.say(`Made By ${package.author.name || package.author}`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
